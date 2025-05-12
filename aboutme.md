@@ -4,13 +4,14 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Irene Cuéllar, I am from Sabadell and I love learning new skills. Have a look at my background below!
+Hi! My name is Irene Cuéllar, I am from Sabadell and I love learning new skills. 
+As a recent Biomedical Engineer, I'm eager to start my professional journey. With a passion for healthcare innovation, I thrive on learning and seek a collaborative environment to grow alongside professionals of this amazing field. I'm excited to apply my skills and expand my knowledge in biomedical engineering.
+Have a look at my background below!
 
 ### Education
 
-- Biomedical engineer degree at UPC (2020 - 2024)
-- Master in Health Data Science at URV (2024 - present)
+- Double diploma Health Data Science Master’s Degree at Universitat Rovira i Virgili and Université Grenoble-Alpes (September 2024 - Present)
+- Biomedical engineering degree at Universitat Politèncica de Catalunya (2020 - 2024)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Internship at Insititut d'Investigació i Innovació Parc Taulí (I3PT)  (Novemeber 2023 - July 2024)
