@@ -10,7 +10,7 @@ author: Irene Cuéllar
 
 navbar-links:
   About Me: "aboutme"
-  Example Page: "example"
+  First Post: "example"
 
 ################
 # --- Logo --- #
@@ -41,7 +41,7 @@ social-network-links:
   github: irenecuellar5
 # twitter: ferranad
 # youtube: "@ferranad"
-  linkedin: "www.linkedin.com/in/irene-cuéllar-vázquez-8b83661ab"
+  linkedin: "irene-cuéllar-vázquez-8b83661ab"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -126,9 +126,9 @@ footer-hover-col: "#005F99"    # Igual que hover general
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+navbar-img: "/images/fondo.avif"
+footer-img: "/images/fondo.avif"
+page-img: "/images/fondo.avif"
 
 
 ################
