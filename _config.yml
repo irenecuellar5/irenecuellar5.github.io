@@ -111,24 +111,24 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#F0F8FF"            # Azul muy claro (fondo de página)
-text-col: "#1C2C4C"            # Azul grisáceo oscuro (texto principal)
-link-col: "#1E90FF"            # Azul vivo (enlaces)
-hover-col: "#005F99"           # Azul más oscuro (hover en enlaces)
-navbar-col: "#D6EAF8"          # Azul muy claro (barra de navegación)
-navbar-text-col: "#1C2C4C"     # Igual que el texto general
-navbar-border-col: "#A9CCE3"   # Azul intermedio para borde
-footer-col: "#D6EAF8"          # Igual que navbar para consistencia
-footer-text-col: "#5D6D7E"     # Azul grisáceo claro (texto pie)
-footer-link-col: "#1C2C4C"     # Azul oscuro (links en pie de página)
-footer-hover-col: "#005F99"    # Igual que hover general
+page-col: "#E6F7FF"            # Fondo celeste muy claro
+text-col: "#3A6E8F"            # Azul celeste medio (para buena legibilidad)
+link-col: "#40BFFF"            # Azul celeste brillante (enlaces)
+hover-col: "#2AABF5"           # Azul celeste un poco más oscuro (hover)
+navbar-col: "#D0F0FF"          # Celeste claro para navbar
+navbar-text-col: "#3A6E8F"     # Texto celeste medio (igual que text-col)
+navbar-border-col: "#A2DFF7"   # Celeste intermedio (borde navbar)
+footer-col: "#D0F0FF"          # Igual que navbar para armonía
+footer-text-col: "#6B9CB5"     # Azul grisáceo claro
+footer-link-col: "#3A6E8F"     # Mismo que texto principal
+footer-hover-col: "#2AABF5"    # Igual que hover general
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
 navbar-img: "/images/fondo.avif"
 footer-img: "/images/fondo.avif"
-page-img: "/images/fondo.avif"
+#page-img: "/images/fondo.avif"
 
 
 ################
