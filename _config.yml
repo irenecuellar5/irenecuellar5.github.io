@@ -116,10 +116,10 @@ text-col: "#3A6E8F"            # Azul celeste medio (para buena legibilidad)
 link-col: "#40BFFF"            # Azul celeste brillante (enlaces)
 hover-col: "#2AABF5"           # Azul celeste un poco más oscuro (hover)
 navbar-col: "#D0F0FF"          # Celeste claro para navbar
-navbar-text-col: "#3A6E8F"     # Texto celeste medio (igual que text-col)
+navbar-text-col: "#FFFFFF"     # Blanco para texto de navbar
 navbar-border-col: "#A2DFF7"   # Celeste intermedio (borde navbar)
 footer-col: "#D0F0FF"          # Igual que navbar para armonía
-footer-text-col: "#6B9CB5"     # Azul grisáceo claro
+footer-text-col: "#FFFFFF"     # Blanco para texto del footer
 footer-link-col: "#3A6E8F"     # Mismo que texto principal
 footer-hover-col: "#2AABF5"    # Igual que hover general
 
