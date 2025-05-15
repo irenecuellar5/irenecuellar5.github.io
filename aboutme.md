@@ -26,7 +26,7 @@ Knowledge in biomedical statistics, implementation of machine learning and deep 
 Passionate about health data visualization and communication.
 
 <p>
-  <a href="images/5.CV_Irene_Cuellar.pdf" target="_blank" rel="noopener" style="
+  <a href="https://irenecuellar5.github.io/images/5.CV_Irene_Cuellar.pdf" target="_blank" rel="noopener" style="
     display: inline-block;
     background-color: #3A6E8F;
     color: white;
