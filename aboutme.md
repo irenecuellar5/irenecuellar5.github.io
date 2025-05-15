@@ -11,12 +11,13 @@ As a recent Biomedical Engineer, I'm eager to start my professional journey. Wit
 Have a look at my background below!
 
 ### Education
-
 - Double diploma **Health Data Science Master’s Degree** at Universitat Rovira i Virgili and Université Grenoble-Alpes (September 2024 - Present)
 - **Biomedical Engineering Degree** at Universitat Politèncica de Catalunya (2020 - 2024)
 
+
 ### Experience
 - Internship as biomedical engineer at *Insititut d'Investigació i Innovació Parc Taulí (I3PT)*  (Novemeber 2023 - July 2024)
+
 
 ### Data science skills
 Good programming skills with Python, R, SQL and Matlab. 
