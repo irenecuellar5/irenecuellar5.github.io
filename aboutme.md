@@ -20,13 +20,15 @@ Have a look at my background below!
 
 ### Data science skills
 Good programming skills with Python, R, SQL and Matlab. 
+
 Knowledge in biomedical statistics, implementation of machine learning and deep learning algortihms, advanced health data analysis and image processing.
+
 Passionate about health data visualization and communication.
 
 <p>
   <a href="images/5.CV_Irene_Cuellar.pdf" target="_blank" rel="noopener" style="
     display: inline-block;
-    background-color: #40BFFF;
+    background-color: #3A6E8F;
     color: white;
     padding: 10px 20px;
     border-radius: 8px;
